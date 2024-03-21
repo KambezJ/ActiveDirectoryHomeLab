@@ -24,85 +24,123 @@
 - <b>Windows Server 2019 ISO</b> Used for Domain Controller VM.
 
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+<h2>Program Walk-through</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
 </p>
 
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
-
 <p align="center">
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
 </p>
 
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
-
 <p align="center">
-<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
 </p>
 
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
-
 <p align="center">
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
 </p>
 
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
-
 <p align="center">
-<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
 </p>
 
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
-
 <p align="center">
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
 </p>
 
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
-
 <p align="center">
-<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
 </p>
 
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
-
 <p align="center">
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
 </p>
 
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
-
 <p align="center">
-<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
 </p>
 
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
-
 <p align="center">
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
 </p>
 
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
-
 <p align="center">
-<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
 </p>
 
 
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+<p align="center">
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
+</p>
+
 
 <p align="center">
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
+</p>
+
+
+<p align="center">
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
+</p>
+
+
+<p align="center">
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
+</p>
+
+
+<p align="center">
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
+</p>
+
+
+<p align="center">
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
+</p>
+
+
+<p align="center">
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
+</p>
+
+
+<p align="center">
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
+</p>
+
+
+<p align="center">
+<b>Step 1: Download Oracle VirtualBox and its associated Extension Pack.</b> <br/>
+<img src="https://i.imgur.com/n7taX3i.png" height="85%" width="85%" alt="Step 1"/>
 </p>
