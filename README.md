@@ -2,8 +2,18 @@
 
 
 <h2>Description</h2>
-<b>In this lab we will make a Windows Networking Environment by creating an Active Directory using Oracle VirtualBox, which will simulate how a corporate network functions. This is achieved by downloading a Windows Server 2019 ISO on one VM to act as a Domain Controller(DC) and house the Active Directory. The VM housing the DC will get two network adapters; one connected to the Internet and one connected to the Internal/Private Network. Then we will name the servers, Install Active Directory, configure NAT/RAS, and set up a DHCP on the DC. After the DC config is finished, a seperate VM will be created on Oracle VirtualBox using a Windows 10 ISO, which will act as a client. This VM (named CLIENT1) will be connected to the Internal/Private Virtual Box Network and joined to the domain. The Powershell scripts in this repository will be responsible for generating random names, creating users within the network, and adding them to the client network as authorized users. Finally, we will log in to the Client Network using one of the generated domain accounts to make sure the network is configured and functioning correctly. The diagram below is a visual representation of the final network that will be built during this lab.
-</b>
+<b>In this lab we will make a Windows Networking Environment by creating an Active Directory using Oracle VirtualBox, which will simulate how a corporate network functions. This is achieved by downloading a Windows Server 2019 ISO on one VM to act as a Domain Controller(DC) and house the Active Directory. The VM housing the DC will get two network adapters; one connected to the Internet and one connected to the Internal/Private Network. Then we will name the servers, Install Active Directory, configure NAT/RAS, and set up a DHCP on the DC. After the DC config is finished, a seperate VM will be created on Oracle VirtualBox using a Windows 10 ISO, which will act as a client. This VM (named CLIENT1) will be connected to the Internal/Private Virtual Box Network and joined to the domain. The Powershell scripts in this repository will be responsible for generating random names, creating users within the network, and adding them to the client network as authorized users. Finally, we will log in to the Client Network using one of the generated domain accounts to make sure the network is configured and functioning correctly. The diagram below is a visual representation of the final network that will be built during this lab.</b>
+
+<h2>Tasks that will be performed:</h2>
+
+- <b>Active Directory Administration:</b> Automated provision, maintaining, an deprovisioning user accounts.
+    <br />
+- Setting up <b>Remote Access Server (RAS)</b> features to support NAT/PAT.
+    <br />
+- Implementation and maintenance of <b>Windows DNS and DHCP</b> services.
+    <br />
+- <b>Configuration of Windows File Servers</b> with implementation of quotas and NTFS permissions.
+
 <br />
 <p align="center">
 <img src="https://i.imgur.com/kxQ9N3t.jpeg" height="85%" width="85%" alt="Diagram of what this lab will achieve"/>
