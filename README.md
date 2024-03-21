@@ -2,32 +2,104 @@
 
 
 <h2>Description</h2>
-<b>The Powershell script in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third party API to collect geographic information about the attackers location.
+<b>Create a Windows Networking Environment by creating an Active Directory using Oracle VirtualBox, which will simulate how a corporate network functions. This is achieved by downloading a Windows Server 2019 ISO on one VM to act as a Domain Controller(DC) and house the Active Directory. The VM housing the DC will get two network adapters; one connected to the Internet and one connected to the Internal/Private Network. Then we will name the servers, Install Active Directory, configure NAT/RAS, and set up a DHCP on the DC. After the DC config is finished, a seperate VM will be created on Oracle VirtualBox using a Windows 10 ISO, which will act as a client. This VM (named CLIENT1) will be connected to the Internal/Private Virtual Box Network and joined to the domain. The Powershell scripts in this repository will be responsible for generating random names, creating users within the network, and adding them to the client network as authorized users. Finally, we will log in to the Client Network using one of the generated domain accounts to make sure the network is configured and functioning correctly. The diagram below is a visual representation of the final network that will be built during this lab.
 </b>
 <br />
-<br />
-The script is used in this demo where I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot.
-We will observe live attacks (RDP Brute Force) from all around the world. I will use a custom PowerShell script to
-look up the attackers Geolocation information and plot it on an Azure Sentinel Map!
-<br />
-<br />
-
 <p align="center">
 <img src="https://i.imgur.com/kxQ9N3t.jpeg" height="85%" width="85%" alt="Diagram of what this lab will achieve"/>
 </p>
-<h2>Languages Used</h2>
 
-- <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
 
-<h2>Utilities Used</h2>
+<h2>Languages and Utilities Used</h2>
 
-- <b>ipgeolocation.io:</b> IP Address to Geolocation API
+- <b>PowerShell ISE:</b> Write script to generate random names and create users within the Internal/Private Network.
+- <b>Oracle VirtualBox:</b> Set up virtual machine for Domain Controller and Client.
+- <b>Server Manager:</b> Configure Internal Network, set up DHCP, enable Remote Access and Routing.
+- <b>Command Prompt:</b> Check work to ensure IP addresses match (ipconfig) and users are generated successfully (whoami).
+
+
+<h2>Environments Used</h2>
+
+- <b>Windows 10 ISO:</b> Used for the Client VM.
+- <b>Windows Server 2019 ISO</b> Used for Domain Controller VM.
+
 
 <h2>Attacks from China coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
 <img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
+
+
+<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
+
+<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
+
+<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
+
+<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
+
+<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
+
+<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
+
+<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
+
+<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
+
+<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
+
+<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/LhDCRz4.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
